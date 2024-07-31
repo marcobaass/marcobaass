@@ -20,13 +20,3 @@ Connect with me:
 
 <a href="https://www.linkedin.com/in/marcobaass/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jules chevrant-breton" height="30" width="40" style="max-width: 100%;"></a>
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/marcobaass/marcobaass/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=marcobaass&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=marcobaass&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcobaass&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=marcobaass&theme=tokyo-night)
-  </div>
-</details>
-
