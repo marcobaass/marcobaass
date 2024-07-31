@@ -2,7 +2,7 @@ Hey there, I'm Marco 👋
 
 :surfer: I am a freelance Frontend Developer, living in Berlin, Germany.
 
-:rocket: I’m currently working on to improve my skills on HTML, CSS and JavaScript.
+:rocket: I’m currently working on to improve my skills on HTML, CSS and JavaScript and React.
 
 
 My final bootcamp project:
