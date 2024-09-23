@@ -20,7 +20,8 @@ Languages and Tools I work with:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width: 100%;">
 <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
+<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40" style="max-width: 100%;">
+<img src="https://img.icons8.com/?size=100&id=wqGmdISvpm0c&format=png&color=000000" alt="github" width="40" height="40" style="max-width: 100%;">
 <img src="https://img.icons8.com/?size=100&id=31085&format=png&color=000000" alt="heroku" width="40" height="40" style="max-width: 100%;">
 <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="postgresql" width="40" height="40" style="max-width: 100%;">
 
