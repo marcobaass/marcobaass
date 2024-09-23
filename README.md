@@ -32,5 +32,5 @@ I am a former photodesigner and image retoucher with 15+ years of freelance expi
 Connect with me:
 
 <a href="https://www.linkedin.com/in/marcobaass/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jules chevrant-breton" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.marcobaass.com" rel="nofollow" alt="link to portfolio page"></a>
+<a href="https://www.marcobaass.com" rel="nofollow" alt="link to portfolio page">My Portfolio Page</a>
 
