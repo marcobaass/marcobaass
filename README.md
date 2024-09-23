@@ -13,7 +13,7 @@ https://mixtapetunes.netlify.app/
 
 Languages and Tools I work with:
 
-<img src="https://fontawesome.com/icons/react?f=brands&s=solid&pc=%232a94e5&sc=%232a94e5"  width="40" height="40" style="max-width: 100%;">
+<img src="[https://fontawesome.com/icons/react?f=brands&s=solid&pc=%232a94e5&sc=%232a94e5](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000)"  width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;">
