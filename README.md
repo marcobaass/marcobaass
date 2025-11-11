@@ -2,14 +2,19 @@ Hey there, I'm Marco 👋
 
 :surfer: I am a freelance Frontend Developer, living in Berlin, Germany.
 
-:rocket: I’m currently working on to improve my skills on HTML, CSS and JavaScript and React.
+:rocket: I’m currently working on to improve my skills on HTML, CSS, JavaScript, React and THREE.js .
 
 
-My final bootcamp project:
-www.movienights.xyz
+Project using the openlibrarie APIs:
+https://shelfie-reading-adventures.netlify.app/
+
+
 
 Project using the Spotify API:
 https://mixtapetunes.netlify.app/
+
+My final bootcamp project:
+www.movienights.xyz
 
 Languages and Tools I work with:
 
